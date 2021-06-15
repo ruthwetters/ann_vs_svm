@@ -3,4 +3,4 @@ Comparison of backpropagated multi-layer neural network and support vector machi
 
 This project was completed for the Neural Computing module of the MSc Data Science at City, University of London, taught and supervised by Prof Artur d'Avila Garcez. It received a mark of 77.
 
-Tools/libraries used: numpy, pandas, sklearn, torch, skorch, tensorflow, keras.
+Tools/libraries used: numpy, pandas, sklearn, torch, skorch, tensorflow, keras, pickle.
